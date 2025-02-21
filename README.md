@@ -1,4 +1,4 @@
-# PINN_Examlples
+# PINN_Examples
 Solve PDEs with PINN method_deepXDE package 
 
 
