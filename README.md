@@ -2,7 +2,7 @@
 Solve PDEs with PINN method_deepXDE package:
 
 
-Here some examples of solving PDE systems using physics informed neural networks (PINN) are given and deployed . In these examples we will:
+Here (pinns-karkheiran.streamlit.app/) some examples of solving PDE systems using physics informed neural networks (PINN) are given and deployed . In these examples we will:
 
 1. Solve various PDE/ODEs with different types of boundary conditions,
 2. Enforce boundary conditions either directly or by hard constraints,
